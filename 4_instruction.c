@@ -6,8 +6,7 @@
  1 type declaration 
  2 airthmetic 
  3 control 
-
-
+ 
  Example of valid statment :----------
 
  int a = 22;
