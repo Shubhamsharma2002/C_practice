@@ -9,11 +9,11 @@ used to determine flow of program
 (iv). Case control
 
 ***************** OPERATOR ******************
-(a). aithmatic operator
+(a). aithmatic operator    <===========> (+,-,/,*,%);
 (b). relational operator   <===========> (==, >, >=, <, <=, !=);
-(c). logical operator      <===========> (&&=>AND, ||=> OR , !=> NOT)
+(c). logical operator      <===========> (&&=>AND, ||=> OR , !=> NOT);
 (d). bitwise operator
-(e). assignment operator
+(e). assignment operator   <===========> (=,+=,-=,*=,/=);
 (f). ternary operator
 
 
