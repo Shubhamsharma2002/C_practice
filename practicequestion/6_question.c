@@ -1,3 +1,5 @@
+// write a program to check charater is uper or lower case 
+
 #include<stdio.h>
 int main(){
     char ch;
