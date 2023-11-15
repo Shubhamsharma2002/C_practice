@@ -1,4 +1,5 @@
-//  print the sum of first n natural numbers
+//  print the sum of first n natural numbers and also print the number in reverse
+
 
 #include<stdio.h>
 int main(){
@@ -10,7 +11,13 @@ int main(){
         sum = sum+i;
 
       }
-      printf("sum of number is: %d", sum);
+      printf("sum of number is: %d\n", sum);
+      printf("reverse number is like: \n");
+      for(int i = n; i>=1; i--){
+        printf("%d\n", i);
+
+      }
+      
       return 0;
 
 }
